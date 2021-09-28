@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-27T13:53:56 EDT" name="Default suite" finished-at="2021-09-27T13:54:09 EDT" duration-ms="13090">
+    <groups>
+    </groups>
+    <test started-at="2021-09-27T13:53:56 EDT" name="Default test" finished-at="2021-09-27T13:54:09 EDT" duration-ms="13090">
+      <class name="LoginFeature">
+        <test-method signature="Login_feature(java.lang.String, java.lang.String)[pri:0, instance:LoginFeature@1d8bd0de]" started-at="2021-09-27T13:53:56 EDT" name="Login_feature" data-provider="dataSet" finished-at="2021-09-27T13:54:04 EDT" duration-ms="7220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[batchautomation]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_feature -->
+        <test-method signature="Login_feature(java.lang.String, java.lang.String)[pri:0, instance:LoginFeature@1d8bd0de]" started-at="2021-09-27T13:54:04 EDT" name="Login_feature" data-provider="dataSet" finished-at="2021-09-27T13:54:09 EDT" duration-ms="5818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdvchgsv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_feature -->
+      </class> <!-- LoginFeature -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
